@@ -1,0 +1,8 @@
+.custom-banner {
+    background: linear-gradient(to right, #2c536499, #203a4399, #0f202799),
+      url("/src/Assets/Images/confirmed.webp") center;
+    background-size: cover;
+    width: 100%;
+    height: 45vh;
+    overflow: hidden;
+  }
